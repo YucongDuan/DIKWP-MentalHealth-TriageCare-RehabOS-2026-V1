@@ -1,5 +1,7 @@
 # DIKWP MentalHealth TriageCare RehabOS 2026 V1
 
+Created by Yucong Duan (段玉聪).
+
 A standalone offline-first reference prototype for mental-health triage preparation, care coordination, and recovery planning.
 
 ## Core workflow
